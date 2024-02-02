@@ -818,7 +818,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"floor-1.png"
         }, 
         {
          "name":"mapName",
