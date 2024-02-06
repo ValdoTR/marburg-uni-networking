@@ -70,6 +70,8 @@ WA.onInit().then(() => {
                 setTimeout(function () {
                     // set indicator
                     $(indicator).animate({ opacity: 0 }, 400);
+
+                    // ELEVATOR STEP 4: prepare coordinates to move to
                     const xCoord = FLOOR_DATA[this.currentFloor].exitCoord[0] * TILES_SIZE
                     const yCoord = FLOOR_DATA[this.currentFloor].exitCoord[1] * TILES_SIZE
 
@@ -82,6 +84,7 @@ WA.onInit().then(() => {
                         this.targetButton.removeClass('glow');
                     }.bind(this));
 
+                    // ELEVATOR STEP 5: move to coordinates
                     setTimeout(() => {
                         WA.player.moveTo(xCoord, yCoord)
                     }, 1500)
@@ -107,12 +110,15 @@ WA.onInit().then(() => {
                 // disable button
                 $(button).prop("disabled", true);
         
+                // ELEVATOR STEP 1: disable player
                 WA.controls.disablePlayerControls()
                 WA.controls.disablePlayerProximityMeeting()
 
+                // ELEVATOR STEP 2: open door
                 WA.room.hideLayer('elevator/closed')
                 WA.room.showLayer('elevator/open')
                 WA.room.showLayer('elevator-above/open')
+
                 // check queue
                 targetElevator.checkQueue();
             }
@@ -123,6 +129,8 @@ WA.onInit().then(() => {
                     // check floor number
                     this.targetButton = this.queue.splice(0, 1)[0];
                     this.targetFloor = Number(this.targetButton.text());
+
+                    // ELEVATOR STEP 3: save target floor
                     WA.player.state.targetFloor = this.targetFloor
         
                     // moving up

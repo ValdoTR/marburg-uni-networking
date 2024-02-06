@@ -42,6 +42,7 @@ WA.onInit().then(() => {
 
         const floor = WA.state.loadVariable('floor') as number
 
+        // ELEVATOR STEP 0: open elevator UI
         WA.room.area.onEnter('elevator-controls').subscribe(() => {
             triggerMessage = WA.ui.displayActionMessage({
                 message: 'Press SPACE or touch here to use the elevator',
@@ -65,9 +66,10 @@ WA.onInit().then(() => {
             modal = null
         })
 
+        // ELEVATOR STEP 6: go to target floor
         WA.room.area.onEnter('inside-elevator').subscribe(() => {
             const targetFloor = WA.player.state.targetFloor as string
-            
+
             if (targetFloor != null) {
                 const targetUrl = FLOOR_DATA[targetFloor as keyof typeof FLOOR_DATA].url
 
@@ -78,7 +80,6 @@ WA.onInit().then(() => {
         })
 
     }).catch(e => console.error(e));
-
 }).catch(e => console.error(e));
 
 export {};
