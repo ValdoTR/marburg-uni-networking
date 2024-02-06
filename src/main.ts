@@ -7,22 +7,22 @@ console.log('Script started successfully');
 
 const FLOOR_DATA = {
     "0": {
-        url: "./map.tmj#from-elevator"
+        url: "/@/philipps-universitaet-marburg/eupeace-academic-kick-off/floor0#from-elevator"
     },
     "-1": {
-        url: "./floor-1.tmj#from-elevator"
+        url: "/@/philipps-universitaet-marburg/eupeace-academic-kick-off/floor-1#from-elevator"
     },
     "-2": {
-        url: "./floor-2.tmj#from-elevator"
+        url: "/@/philipps-universitaet-marburg/eupeace-academic-kick-off/floor-2#from-elevator"
     },
     "-3": {
-        url: "./floor-3.tmj#from-elevator"
+        url: "/@/philipps-universitaet-marburg/eupeace-academic-kick-off/floor-3#from-elevator"
     },
     "-4": {
-        url: "./floor-4.tmj#from-elevator"
+        url: "/@/philipps-universitaet-marburg/eupeace-academic-kick-off/floor-4#from-elevator"
     },
     "-5": {
-        url: "./floor-5.tmj#from-elevator"
+        url: "/@/philipps-universitaet-marburg/eupeace-academic-kick-off/floor-5#from-elevator"
     },
 }
 
