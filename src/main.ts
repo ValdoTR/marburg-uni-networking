@@ -32,7 +32,6 @@ WA.onInit().then(() => {
     console.log('Player tags: ',WA.player.tags)
 
     let triggerMessage: ActionMessage|null
-    let modal: any
     const mapUrl = WA.room.mapURL
     const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"))
 
@@ -47,7 +46,7 @@ WA.onInit().then(() => {
             triggerMessage = WA.ui.displayActionMessage({
                 message: 'Press SPACE or touch here to use the elevator',
                 callback: async () => {
-                    modal = WA.ui.modal.openModal({
+                    WA.ui.modal.openModal({
                         title: 'Elevator',
                         src: root + `/elevator/index.html?floor=${floor}`,
                         allowApi: true,
@@ -63,7 +62,6 @@ WA.onInit().then(() => {
             triggerMessage = null
 
             WA.ui.modal.closeModal()
-            modal = null
         })
 
         // ELEVATOR STEP 6: go to target floor
