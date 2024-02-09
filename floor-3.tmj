@@ -872,6 +872,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -894,6 +904,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -916,6 +936,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -938,6 +968,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -960,6 +1000,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -982,6 +1032,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1004,6 +1064,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1026,6 +1096,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1048,6 +1128,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1070,6 +1160,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1092,6 +1192,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1114,6 +1224,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1136,6 +1256,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1158,6 +1288,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1180,6 +1320,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1202,6 +1352,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1224,6 +1384,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1246,6 +1416,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1268,6 +1448,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1290,6 +1480,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1312,6 +1512,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1334,6 +1544,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1356,6 +1576,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1378,6 +1608,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1400,6 +1640,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1422,6 +1672,16 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"peer-table-instructions.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
