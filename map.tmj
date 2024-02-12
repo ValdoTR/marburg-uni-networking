@@ -1706,6 +1706,28 @@
                  "width":192,
                  "x":2880,
                  "y":1312
+                }, 
+                {
+                 "height":704,
+                 "id":43,
+                 "name":"ChatAuditorium",
+                 "properties":[
+                        {
+                         "name":"chatDescription",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"Auditorium"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":832,
+                 "x":768,
+                 "y":640
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2140,7 +2162,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":43,
+ "nextobjectid":44,
  "orientation":"orthogonal",
  "properties":[
         {
