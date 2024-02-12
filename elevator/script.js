@@ -24,7 +24,7 @@ const FLOOR_DATA = {
         exitCoord: [42, 15],
     },
     "-5": {
-        tablesRange: ["120", "145"],
+        tablesRange: ["120", "148"],
         exitCoord: [42, 15],
     },
 }
