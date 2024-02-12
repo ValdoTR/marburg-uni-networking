@@ -814,40 +814,6 @@
                  "y":544
                 }, 
                 {
-                 "height":46.4015151515151,
-                 "id":22,
-                 "name":"elevator-controls",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":139.439393939394,
-                 "x":1305.85606060606,
-                 "y":576.070075757576
-                }, 
-                {
-                 "height":32,
-                 "id":23,
-                 "name":"from-elevator",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32,
-                 "x":1359.78015151515,
-                 "y":625.710227272727
-                }, 
-                {
                  "height":40.1818,
                  "id":24,
                  "name":"inside-elevator",
@@ -1689,6 +1655,40 @@
                  "width":192,
                  "x":2592,
                  "y":1152
+                }, 
+                {
+                 "height":69.3333,
+                 "id":64,
+                 "name":"elevator-controls",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":161.833,
+                 "x":1294,
+                 "y":575.5
+                }, 
+                {
+                 "height":32,
+                 "id":65,
+                 "name":"from-elevator",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":1359.84,
+                 "y":652.672
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1989,7 +1989,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":64,
+ "nextobjectid":66,
  "orientation":"orthogonal",
  "properties":[
         {

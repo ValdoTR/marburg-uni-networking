@@ -31,7 +31,6 @@ WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
 
-    let triggerMessage: ActionMessage|null
     const mapUrl = WA.room.mapURL
     const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"))
 
@@ -43,24 +42,16 @@ WA.onInit().then(() => {
 
         // ELEVATOR STEP 0: open elevator UI
         WA.room.area.onEnter('elevator-controls').subscribe(() => {
-            triggerMessage = WA.ui.displayActionMessage({
-                message: 'Press SPACE or touch here to use the elevator',
-                callback: async () => {
-                    WA.ui.modal.openModal({
-                        title: 'Elevator',
-                        src: root + `/elevator/index.html?floor=${floor}`,
-                        allowApi: true,
-                        allow: "microphone; camera;",
-                        position: "right",
-                    }, () => WA.ui.modal.closeModal())
-                }
-            })
+            WA.ui.modal.openModal({
+                title: 'Elevator',
+                src: root + `/elevator/index.html?floor=${floor}`,
+                allowApi: true,
+                allow: "microphone; camera;",
+                position: "right",
+            }, () => WA.ui.modal.closeModal())
         })
 
         WA.room.area.onLeave('elevator-controls').subscribe(() => {
-            triggerMessage?.remove()
-            triggerMessage = null
-
             WA.ui.modal.closeModal()
         })
 
